@@ -1,0 +1,1 @@
+mn --topo=tree,depth=2,fanout=2 --mac --nat
