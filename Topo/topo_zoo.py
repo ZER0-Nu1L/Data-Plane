@@ -4,7 +4,6 @@
 start with:
 sudo mn --custom topo_zoo.py --topo topo_zoo --mac --nat
 
-TODO: pingall
 TODO: gml: VSCode 预览
 '''
 
@@ -42,18 +41,18 @@ class Mininet_topology_zoo(Topo):
         switches = []
         links = []
         for line in file:
-            if line.startswith("    id "):
+            if line.startswith("    id "):      # if True: switches <==add== id
                 token = line.split("\n")
                 token = token[0].split(" ")
                 line = line[7:]
-                if not line.startswith("\""):
+                if not line.startswith("\""): # not edge id
                     token = line.split("\n")
                     switches.append(int(token[0]))
-            if line.startswith("    source"):
+            if line.startswith("    source"):   # if True: sw1 <- source id
                 token = line.split("\n")
                 token = token[0].split(" ")
                 sw1 = int(token[-1])
-            if line.startswith("    target"):
+            if line.startswith("    target"):   # if True: sw2 <- target id
                 token = line.split("\n")
                 token = token[0].split(" ")
                 sw2 = int(token[-1])
@@ -61,7 +60,7 @@ class Mininet_topology_zoo(Topo):
         return switches, links
 
     def _addSwitches(self, switches):
-        for s in switches:
+        for s in switches:              # each swtich - each host
             self.addSwitch('s%d' % s)
             self.addHost('h%d' % s)
 
