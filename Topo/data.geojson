@@ -1,0 +1,1371 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.059763,
+            30.669938
+          ]
+        },
+        "properties": {
+          "位置": "宽窄巷子"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.073855,
+            30.669308
+          ]
+        },
+        "properties": {
+          "位置": "成都体育中心"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.075894,
+            30.646763
+          ]
+        },
+        "properties": {
+          "位置": "四川大学华西校区"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.024501,
+            30.667098
+          ]
+        },
+        "properties": {
+          "位置": "四川省气象局"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.130484,
+            30.640482
+          ]
+        },
+        "properties": {
+          "位置": "塔子山公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.107198,
+            30.681868
+          ]
+        },
+        "properties": {
+          "位置": "电子科技大学沙河校区"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.094487,
+            30.621803
+          ]
+        },
+        "properties": {
+          "位置": "东湖公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.019116,
+            30.687743
+          ]
+        },
+        "properties": {
+          "位置": "金沙遗址博物馆"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.070734,
+            30.575041
+          ]
+        },
+        "properties": {
+          "位置": "环球中心"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.074238,
+            30.612572
+          ]
+        },
+        "properties": {
+          "位置": "成都南站"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.153661,
+            30.681403
+          ]
+        },
+        "properties": {
+          "位置": "成都理工大学"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.199156,
+            30.645796
+          ]
+        },
+        "properties": {
+          "位置": "青龙湖湿地公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.041138,
+            30.726702
+          ]
+        },
+        "properties": {
+          "位置": "成都欢乐谷"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.059808,
+            30.627463
+          ]
+        },
+        "properties": {
+          "位置": "好莱坞商业广场"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.051766,
+            30.556247
+          ]
+        },
+        "properties": {
+          "位置": "世豪广场"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.150916,
+            30.743319
+          ]
+        },
+        "properties": {
+          "位置": "成都大熊猫繁育养殖基地"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.977055,
+            30.726649
+          ]
+        },
+        "properties": {
+          "位置": "中海体育公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.993214,
+            30.770399
+          ]
+        },
+        "properties": {
+          "位置": "西南交通大学（犀浦校区）"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.103042,
+            30.62672
+          ]
+        },
+        "properties": {
+          "位置": "万达广场"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.148538,
+            30.582361
+          ]
+        },
+        "properties": {
+          "位置": "三圣花乡"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.958189,
+            30.565774
+          ]
+        },
+        "properties": {
+          "位置": "双流国际机场"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.937404,
+            30.756035
+          ]
+        },
+        "properties": {
+          "位置": "电子科技大学（清水河校区）"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.241116,
+            30.732104
+          ]
+        },
+        "properties": {
+          "位置": "长寿山"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.088555,
+            30.743688
+          ]
+        },
+        "properties": {
+          "位置": "凤凰山公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.009889,
+            30.639172
+          ]
+        },
+        "properties": {
+          "位置": "中华名园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.049992,
+            30.652713
+          ]
+        },
+        "properties": {
+          "位置": "成都体育学院"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.0357,
+            30.663694
+          ]
+        },
+        "properties": {
+          "位置": "浣花溪公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.020544,
+            30.674066
+          ]
+        },
+        "properties": {
+          "位置": "西南财经大学（光华校区）"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.07231,
+            30.663467
+          ]
+        },
+        "properties": {
+          "位置": "天府广场"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.034848,
+            30.666397
+          ]
+        },
+        "properties": {
+          "位置": "成都杜甫草堂博物馆"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.147618,
+            30.635065
+          ]
+        },
+        "properties": {
+          "位置": "成都东站"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.079149,
+            30.681353
+          ]
+        },
+        "properties": {
+          "位置": "文殊院"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.081717,
+            30.66655
+          ]
+        },
+        "properties": {
+          "位置": "长城电信大厦"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.073869,
+            30.66039
+          ]
+        },
+        "properties": {
+          "位置": "皇城商业广场"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.073218,
+            30.659217
+          ]
+        },
+        "properties": {
+          "位置": "航天科技大厦"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.067196,
+            30.658928
+          ]
+        },
+        "properties": {
+          "位置": "成都图书馆"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.962765,
+            30.649685
+          ]
+        },
+        "properties": {
+          "位置": "御翠草堂森林公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.912434,
+            30.593761
+          ]
+        },
+        "properties": {
+          "位置": "双流区中心公园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.912907,
+            30.605311
+          ]
+        },
+        "properties": {
+          "位置": "四川国际网球中心"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.918311,
+            30.618723
+          ]
+        },
+        "properties": {
+          "位置": "世纪华都"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.829047,
+            30.728322
+          ]
+        },
+        "properties": {
+          "位置": "国色天香乐园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.901525,
+            30.771981
+          ]
+        },
+        "properties": {
+          "位置": "华为成都研究所"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.080446,
+            30.650815
+          ]
+        },
+        "properties": {
+          "位置": "新南门车站"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.081348,
+            30.641524
+          ]
+        },
+        "properties": {
+          "位置": "成都七中"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.136465,
+            30.770437
+          ]
+        },
+        "properties": {
+          "位置": "成都植物园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.935375,
+            30.676447
+          ]
+        },
+        "properties": {
+          "位置": "非遗博览馆"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.062129,
+            30.696741
+          ]
+        },
+        "properties": {
+          "位置": "九里小区"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.04946,
+            30.696576
+          ]
+        },
+        "properties": {
+          "位置": "信禾人家"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            103.884102,
+            30.731425
+          ]
+        },
+        "properties": {
+          "位置": "五月玫瑰园"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            104.095547,
+            30.796739
+          ]
+        },
+        "properties": {
+          "位置": "北部商贸城"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.073869,
+              30.66039
+            ],
+            [
+              104.073218,
+              30.659217
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.067196,
+              30.658928
+            ],
+            [
+              104.073218,
+              30.659217
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.073855,
+              30.669308
+            ],
+            [
+              104.07231,
+              30.663467
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.081717,
+              30.66655
+            ],
+            [
+              104.073855,
+              30.669308
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.073869,
+              30.66039
+            ],
+            [
+              104.07231,
+              30.663467
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.07231,
+              30.663467
+            ],
+            [
+              104.081717,
+              30.66655
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.059763,
+              30.669938
+            ],
+            [
+              104.07231,
+              30.663467
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.059763,
+              30.669938
+            ],
+            [
+              104.067196,
+              30.658928
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.079149,
+              30.681353
+            ],
+            [
+              104.073855,
+              30.669308
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.073855,
+              30.669308
+            ],
+            [
+              104.107198,
+              30.681868
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.079149,
+              30.681353
+            ],
+            [
+              104.062129,
+              30.696741
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.062129,
+              30.696741
+            ],
+            [
+              104.04946,
+              30.696576
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.04946,
+              30.696576
+            ],
+            [
+              104.041138,
+              30.726702
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.04946,
+              30.696576
+            ],
+            [
+              104.019116,
+              30.687743
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.041138,
+              30.726702
+            ],
+            [
+              104.088555,
+              30.743688
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.041138,
+              30.726702
+            ],
+            [
+              103.993214,
+              30.770399
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.041138,
+              30.726702
+            ],
+            [
+              103.977055,
+              30.726649
+            ],
+            [
+              103.937404,
+              30.756035
+            ],
+            [
+              103.901525,
+              30.771981
+            ],
+            [
+              103.884102,
+              30.731425
+            ],
+            [
+              103.829047,
+              30.728322
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.067196,
+              30.658928
+            ],
+            [
+              104.049992,
+              30.652713
+            ],
+            [
+              104.0357,
+              30.663694
+            ],
+            [
+              104.034848,
+              30.666397
+            ],
+            [
+              104.024501,
+              30.667098
+            ],
+            [
+              104.020544,
+              30.674066
+            ],
+            [
+              104.019116,
+              30.687743
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.073218,
+              30.659217
+            ],
+            [
+              104.080446,
+              30.650815
+            ],
+            [
+              104.075894,
+              30.646763
+            ],
+            [
+              104.081348,
+              30.641524
+            ],
+            [
+              104.094487,
+              30.621803
+            ],
+            [
+              104.103042,
+              30.62672
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.094487,
+              30.621803
+            ],
+            [
+              104.074238,
+              30.612572
+            ],
+            [
+              104.059808,
+              30.627463
+            ],
+            [
+              104.081348,
+              30.641524
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.103042,
+              30.62672
+            ],
+            [
+              104.130484,
+              30.640482
+            ],
+            [
+              104.147618,
+              30.635065
+            ],
+            [
+              104.199156,
+              30.645796
+            ],
+            [
+              104.130484,
+              30.640482
+            ],
+            [
+              104.153661,
+              30.681403
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.088555,
+              30.743688
+            ],
+            [
+              104.095547,
+              30.796739
+            ],
+            [
+              104.136465,
+              30.770437
+            ],
+            [
+              104.088555,
+              30.743688
+            ],
+            [
+              104.150916,
+              30.743319
+            ],
+            [
+              104.241116,
+              30.732104
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.150916,
+              30.743319
+            ],
+            [
+              104.136465,
+              30.770437
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.107198,
+              30.681868
+            ],
+            [
+              104.153661,
+              30.681403
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.009889,
+              30.639172
+            ],
+            [
+              104.034848,
+              30.666397
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.020544,
+              30.674066
+            ],
+            [
+              103.962765,
+              30.649685
+            ],
+            [
+              103.918311,
+              30.618723
+            ],
+            [
+              103.912907,
+              30.605311
+            ],
+            [
+              103.912434,
+              30.593761
+            ],
+            [
+              103.958189,
+              30.565774
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.074238,
+              30.612572
+            ],
+            [
+              104.070734,
+              30.575041
+            ],
+            [
+              104.051766,
+              30.556247
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              104.147618,
+              30.635065
+            ],
+            [
+              104.148538,
+              30.582361
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              103.935375,
+              30.676447
+            ],
+            [
+              103.962765,
+              30.649685
+            ],
+            [
+              104.009889,
+              30.639172
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              103.993214,
+              30.770399
+            ],
+            [
+              103.937404,
+              30.756035
+            ]
+          ]
+        },
+        "properties": {
+          "prop0": "value0",
+          "prop1": 0.0
+        }
+      }
+    ]
+  }
