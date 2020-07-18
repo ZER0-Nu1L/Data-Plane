@@ -2,8 +2,13 @@
 # conding = "utf-8"
 '''
 start with:
+<<<<<<< Updated upstream
 sudo mn --custom topo_zoo.py --topo topo_zoo --mac --nat
 
+=======
+sudo mn --custom topo_zoo.py --topo topo_zoo 
+# --mac --nat
+>>>>>>> Stashed changes
 TODO: gml: VSCode 预览
 '''
 
