@@ -5,12 +5,11 @@
 import pexpect
 import sys
 import os
-# pip3 install pexpect
-
-
 def scp_getfile(remoteIP, targetFile, StorageCata, port=50022, remoteUser="root", password="***********"):
+    '''
+    getfile from remoteUser@remoteIP：targetFile by scp, and storge in StorageCata.
+    '''
     # os.system('scp -P "%d" "%s"@"%s:%s" "%s"' % (port, remoteUser, remoteIP, targetFile, StorageCata))
-
     transport_sh = pexpect.spawn('scp -P "%d" "%s"@"%s:%s" "%s"' %
                                  (port, remoteUser, remoteIP, targetFile, StorageCata))
     try:
