@@ -2,9 +2,14 @@
 # conding = "utf-8"
 '''
 start with:
+<<<<<<< Updated upstream
 sudo mn --custom topo_zoo.py --topo topo_zoo  --mac --controller=remote,ip=127.0.0.1,port=6653
 # --mac --nat
 # 参数会影响连通性
+=======
+sudo mn --custom topo_zoo.py --topo topo_zoo 
+# --mac --nat
+>>>>>>> Stashed changes
 TODO: gml: VSCode 预览
 '''
 
